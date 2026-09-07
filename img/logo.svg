@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">Ziel Cleaning logo - groen mannetje met bezem</title>
+  <!-- leaf sprouts -->
+  <path d="M60 20 C52 8 40 8 34 16 C44 20 52 24 60 32 Z" fill="#6fae67"/>
+  <path d="M60 20 C68 8 80 8 86 16 C76 20 68 24 60 32 Z" fill="#4c8a52"/>
+  <!-- head -->
+  <circle cx="60" cy="40" r="15" fill="#e9d9b8"/>
+  <!-- face -->
+  <circle cx="55" cy="39" r="2.2" fill="#2c3b28"/>
+  <circle cx="65" cy="39" r="2.2" fill="#2c3b28"/>
+  <path d="M54 46 Q60 51 66 46" stroke="#2c3b28" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- body -->
+  <path d="M40 100 C38 74 46 56 60 56 C74 56 82 74 80 100 Z" fill="#2f6b3a"/>
+  <!-- belt -->
+  <rect x="42" y="80" width="36" height="6" rx="3" fill="#7a5230"/>
+  <!-- left arm holding broom -->
+  <path d="M46 66 C38 72 32 82 30 96" stroke="#2f6b3a" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <!-- right arm -->
+  <path d="M74 66 C80 70 84 76 86 84" stroke="#2f6b3a" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <!-- broom handle -->
+  <rect x="27" y="34" width="5" height="66" rx="2.5" fill="#8a6240" transform="rotate(-8 29 67)"/>
+  <!-- broom bristles -->
+  <path d="M16 96 L42 96 L46 112 L12 112 Z" fill="#c9a25a"/>
+  <path d="M16 96 L42 96 L44 104 L14 104 Z" fill="#a97f3f"/>
+  <!-- ground shadow -->
+  <ellipse cx="58" cy="112" rx="34" ry="4" fill="#1f4d2c" opacity="0.15"/>
+</svg>
