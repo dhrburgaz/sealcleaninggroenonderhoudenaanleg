@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dcebdd"/>
+      <stop offset="1" stop-color="#c3d9c6"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#g)"/>
+  <g fill="#2f6b3a" opacity="0.55">
+    <path d="M200 120 C185 100 155 100 145 120 C165 128 182 136 200 150 Z"/>
+    <path d="M200 120 C215 100 245 100 255 120 C235 128 218 136 200 150 Z"/>
+    <path d="M200 150 C180 150 168 175 168 210 L232 210 C232 175 220 150 200 150 Z"/>
+  </g>
+  <text x="200" y="240" font-family="Arial, sans-serif" font-size="15" fill="#3d5943" text-anchor="middle">Foto volgt binnenkort</text>
+</svg>
